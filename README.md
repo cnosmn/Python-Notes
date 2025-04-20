@@ -75,8 +75,8 @@ This repository demonstrates the following data manipulation techniques:
 
 1. Clone this repository
 ```bash
-git clone "this repo"
-cd python-pandas-manipulation
+git clone https://github.com/cnosmn/Python-Notes.git
+cd Python-Notes
 ```
 
 2. Install required packages
